@@ -1,3 +1,9 @@
+// Course: CS 12 <Winter 2013>
+//
+// First Name: Harrison
+// Last Name: Lee
+
+// ================================================================
 #ifndef __MESSAGE_H__
 #define __MESSAGE_H__ 
 

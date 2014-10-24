@@ -2,18 +2,7 @@
 //
 // First Name: Harrison
 // Last Name: Lee
-// Login id: <hlee088>
-// email address: <hlee088@ucr.edu>
-//
-// Lecture Section: <001>
-// Lab Section: <023>
-// TA: Mike Izbicki
-//
-// Assignment: <assn6>
-//
-// I hereby certify that the code in this file
-// is ENTIRELY my own original work.
-//
+
 // ================================================================
 
 #include <iostream>

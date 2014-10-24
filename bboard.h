@@ -1,3 +1,9 @@
+// Course: CS 12 <Winter 2013>
+//
+// First Name: Harrison
+// Last Name: Lee
+
+// ================================================================
 #include <string>
 #include <vector>
 #include "user.h"

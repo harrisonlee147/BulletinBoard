@@ -1,3 +1,9 @@
+// Course: CS 12 <Winter 2013>
+//
+// First Name: Harrison
+// Last Name: Lee
+
+// ================================================================
 #ifndef __USER_H__
 #define __USER_H__
 
